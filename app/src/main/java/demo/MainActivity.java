@@ -5,7 +5,7 @@ import android.os.Bundle;
 import android.os.Environment;
 import android.view.View;
 
-import com.aaaaaaa.qihan.R;
+import com.aaaaaaa.demo.R;
 
 import cn.onlinecache.breakpad.NativeBreakpad;
 
